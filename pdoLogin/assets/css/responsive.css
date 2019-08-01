@@ -1,0 +1,66 @@
+@media only screen and (max-width: 1080px) {
+	#container { width: 874px; }
+	.formDiv1 { transform: translate(-26px,145px); }
+
+}
+
+@media only screen and (max-width: 990px) {
+	#formDiv { width: 300px !important; }
+	.formDiv1 { width: 300px; }
+	#welcome { font-size: 17px; }
+	.h3, h3 { font-size: 17px; }
+	#newReg { padding: 14px 5px; font-size: 10px; }
+	#newReg a { font-size: 12px; }
+	.customer_login_user { margin-top: 7px; }
+	.form_field { height: 33px; }
+	#logInBtn { font-size: 15px; padding: 5px 20px; }
+ 	#forgotPass { font-size: 14px; margin-top: 7px; }
+ 	#formDiv form { padding: 0px 15px 10px; }
+ 	.formDiv1 { transform: translate(36px,201px); }
+}
+
+@media only screen and (max-width: 950px) {
+	body { height: 620px; }
+}
+
+@media only screen and (max-width: 810px) {
+	#containe { width: 750px; }
+	.formDiv1 { transform: translate(-18px,210px); }
+
+}
+@media only screen and (max-width: 768px) {
+	body {
+		background-image: none;
+		background-color: #ccc;
+	}
+	.formDiv1 { transform: translate(-184px,120px); }
+	#container { width: 0 !important; }
+}
+@media only screen and (max-width: 550px) {
+	.formDiv1 {
+	    transform: translate(-105px,120px);
+	}
+}
+
+@media only screen and (max-width: 433px) {
+	.formDiv1 {
+	    transform: translate(-51px,120px);
+	}
+}
+@media only screen and (max-width: 373px) {
+	.formDiv1 {
+	    transform: translate(-20px,120px);
+	}
+}
+@media only screen and (max-width: 338px) {
+	.formDiv1 {
+	    transform: translate(-5px,120px);
+	}
+}
+@media only screen and (max-width: 308px) {
+	body { overflow: scroll !important; }
+	.formDiv1 {
+	    transform: translate(116px,120px);
+	}
+
+}

@@ -1,0 +1,14 @@
+.wrapper {
+	width: 500px;
+}
+
+.font {
+	font-size: 25px;
+	font-weight: bolder;
+	color: #ccc;
+}
+
+.img{
+	width: 250px;
+	height: 250px;
+}
